@@ -9,6 +9,10 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: #ccc;
+}
+
 input {
   text-indent: 10px;
 }
